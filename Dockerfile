@@ -1,5 +1,5 @@
 # Set the base image to fedora
-FROM fedora:21
+FROM fedora:26
 
 # Update the repository sources list
 RUN yum update -y
